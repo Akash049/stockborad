@@ -1,0 +1,15 @@
+.listcard{
+    padding: 1%;
+    width: 100%;
+    min-height:30px;
+    height: auto;
+    /* background: #D3D3D3; */
+    border-bottom: 1px solid #eee;
+    color: dimgray;
+    font-family: 'Titillium Web', sans-serif;
+}
+.listItem{
+    width: 20%;
+    text-align: left;
+    float: left;
+}
